@@ -8,5 +8,5 @@ This repository contains MySQL solutions of the HackerRank certification problem
 ## Question 2: Customer Spending
 ![Customer Spending-1](https://user-images.githubusercontent.com/27827295/154382638-452d9fdb-d2e8-4a1b-b485-4de0a4df8a2f.png)
 
-### Here is the certificate I got using the solutions
-![Uploading Screenshot 2023-11-14 at 07.29.54.png…]()
+### Here is the certificate 
+https://www.hackerrank.com/certificates/3ad632a6ea59?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate
