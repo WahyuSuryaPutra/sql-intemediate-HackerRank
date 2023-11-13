@@ -1,5 +1,5 @@
 # sql-intemediate-HackerRank
-This repository contains MySQL solutions of the HackerRank-SQL-Intermediate-Certificate problems which I encountered during the test. Please check **<ins>1. Business Expansion.sql</ins>** and **<ins>2. Customer Spending.sql</ins>** files for the solutions I submitted!
+This repository contains MySQL solutions of the HackerRank certification problems which I encountered during the test. Please check **<ins>1. Business Expansion.sql</ins>** and **<ins>2. Customer Spending.sql</ins>** files for the solutions I submitted!
 
 ## Question 1: Business Expansion
 ![Business Expansion-1](https://user-images.githubusercontent.com/27827295/154382575-9cb62e17-7443-42a0-9abb-832e5a8ecce5.png)
