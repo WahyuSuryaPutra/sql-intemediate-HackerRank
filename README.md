@@ -9,4 +9,4 @@ This repository contains MySQL solutions of the HackerRank certification problem
 ![Customer Spending-1](https://user-images.githubusercontent.com/27827295/154382638-452d9fdb-d2e8-4a1b-b485-4de0a4df8a2f.png)
 
 ### Here is the certificate I got using the solutions
-![sql-inter-certificate](https://user-images.githubusercontent.com/27827295/154383417-4e3cd37a-aa2d-4926-b803-d503ac2089db.png)
+![sql-inter-certificate]()
